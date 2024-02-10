@@ -18,3 +18,18 @@ To get started, you can clone or download this repository to your local machine.
 To run your code, you can use the terminal or the command prompt and navigate to the project folder. Then, you can type `python <filename>.py` to execute your code. For example, if you want to run the project `guess_the_number.py`, you can type `python guess_the_number.py`.
 
 You can also use the test cases provided in the test folder to check your code for errors and bugs. To run the test cases, you need to install pytest, a python testing framework. You can install pytest by typing `pip install pytest` in the terminal or the command prompt. Then, you can type `pytest` to run all the test cases, or `pytest <filename>.py` to run a specific test case.
+
+
+## How to contribute to this repository? 💪
+
+This repository is open for contributions from anyone who wants to share their beginner python projects or improve the existing ones. If you have a project idea or a suggestion, you can create an issue or a pull request on GitHub. Please follow the [contributing guidelines] before you submit your work.
+
+We welcome any kind of contribution, such as:
+
+- Adding new python projects 🆕
+- Improving the code quality or the documentation of the existing projects 📝
+- Fixing bugs or errors in the existing projects 🐛
+- Adding or updating test cases for the existing projects ✅
+- Adding or updating README files for the existing projects 📄
+
+We appreciate your interest and support for this repository. We hope that you will find these projects useful and enjoyable. Happy coding! 😊
