@@ -32,4 +32,4 @@ We welcome any kind of contribution, such as:
 - Adding or updating test cases for the existing projects ✅
 - Adding or updating README files for the existing projects 📄
 
-We appreciate your interest and support for this repository. We hope that you will find these projects useful and enjoyable. Happy coding! 😊
+We appreciate your interest and support for this repository. We hope that you will find these projects useful and enjoyable. Happy coding!😊
