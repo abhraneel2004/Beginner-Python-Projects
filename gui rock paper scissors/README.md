@@ -32,8 +32,4 @@ This project is open for contributions and feedback. If you have any suggestions
 
 This project is licensed under the MIT License. See the [LICENSE](https://www.geeksforgeeks.org/rock-paper-and-scissor-game-using-tkinter/) file for more details.
 
-This project was created by [Your name](https://www.educative.io/blog/python-tkinter-tutorial-rock-paper-scissors). You can contact me at [your email](https://tkinter.com/rock-paper-scissors-game-python-tkinter-gui-tutorial-144/) or follow me on [your social media](https://www.tutorialspoint.com/rock-paper-and-scissor-game-using-tkinter).
-
-## Acknowledgements 🙏
-
-I would like to thank [Educative] for their awesome tutorial on how to build a rock paper scissors game with Python and Tkinter. I learned a lot from their article and I recommend it to anyone who wants to learn more about GUI development with Python.
+This project was created by [Abhraneel Karmakar](https://www.github.com/abhraneel2004/). You can contact me at [contact.abhraneel@gmail.com](contact.abhraneel@gmail.com) or follow me on [Linked In](https://linkedin.com/in/abhraneel-karmakar-1b51971ba/).
