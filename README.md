@@ -33,3 +33,9 @@ We welcome any kind of contribution, such as:
 - Adding or updating README files for the existing projects 📄
 
 We appreciate your interest and support for this repository. We hope that you will find these projects useful and enjoyable. Happy coding!😊
+
+## License and Author 📄
+
+This project is licensed under the MIT License. See the [LICENSE](https://www.geeksforgeeks.org/rock-paper-and-scissor-game-using-tkinter/) file for more details.
+
+This project was created by [Abhraneel Karmakar](https://www.github.com/abhraneel2004/). You can contact me at [contact.abhraneel@gmail.com](contact.abhraneel@gmail.com) or follow me on [Linked In](https://linkedin.com/in/abhraneel-karmakar-1b51971ba/).
