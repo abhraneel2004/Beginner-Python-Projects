@@ -2,8 +2,11 @@ import PIL.Image
 import os
 
 nw = 240
+
+# arranging the characters in list such that the intensity of characters are in decreasing order
 ascii_chars = ['@', '#', '$', '%', '?', '*', '+', ';', ':', ',', "."]
 
+#resizing the image to desired width and height
 def resize_image(image, new_width=nw):
     width, height = image.size
     ratio = height / width
@@ -11,10 +14,12 @@ def resize_image(image, new_width=nw):
     resized_image = image.resize((new_width, new_height))
     return resized_image
 
+#converting it to greyscale. it will help to know the pixel intensity
 def grayscale(image):
     grayscale_image = image.convert('L')
     return grayscale_image
 
+#converting the pixel data into ASCII characters according to their weight
 def pixels_to_ascii(image):
     pixels = image.getdata()
     characters = ''.join([ascii_chars[pixel // 25] for pixel in pixels])
@@ -31,7 +36,7 @@ def main(new_width=nw):
         print("File not found.")
         return
     except Exception as e:
-        print("An error occurred:", e)
+        print("Error :", e)
         return
 
     new_image_data = pixels_to_ascii(grayscale(resize_image(image)))
